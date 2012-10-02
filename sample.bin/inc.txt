@@ -1,0 +1,1 @@
+inc.txt in sample.bin
